@@ -1,0 +1,6 @@
+plugin:
+    has_options: false
+    widgets:
+        -
+            name: philippe_userwidget_widget
+            is_configurable: false

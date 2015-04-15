@@ -1,0 +1,4 @@
+userwidget_controller:
+    resource: "@PhilippeUserWidgetBundle/Controller/UserWidgetController.php"
+    type: annotation
+    prefix: /
